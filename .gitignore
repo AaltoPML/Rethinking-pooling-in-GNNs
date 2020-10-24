@@ -1,0 +1,13 @@
+*.sh
+*.slrm
+.DS_Store
+log/
+results/
+**raw/
+**processed/
+notebooks/
+**.ipynb_checkpoints/
+**__pycache__/
+.idea/
+scripts/
+paper/
