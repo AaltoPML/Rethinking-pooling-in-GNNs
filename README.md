@@ -5,10 +5,7 @@
 
 This repo contains code for [Rethinking pooling in graph neural networks (NeurIPS 2020)](https://arxiv.org/abs/2010.11418).
 
-In our work, we build upon representative GNNs ([Graclus](https://www.cs.utexas.edu/users/inderjit/public_papers/multilevel_pami.pdf), [DiffPool](https://arxiv.org/abs/1806.08804), [GMN](https://arxiv.org/abs/2002.09518), [MinCutPool](https://arxiv.org/abs/1907.00481)) and introduce variants that challenge 
-the need for locality-preserving representations, either using randomization or clustering 
-on the complement graph. Results show that using these variants 
-does not result in any decrease in performance.
+In our work, we build upon representative GNNs ([Graclus](https://www.cs.utexas.edu/users/inderjit/public_papers/multilevel_pami.pdf), [DiffPool](https://arxiv.org/abs/1806.08804), [GMN](https://arxiv.org/abs/2002.09518), [MinCutPool](https://arxiv.org/abs/1907.00481)) and introduce variants that challenge the need for locality-preserving representations, either using randomization or clustering on the complement graph. Results show that using these variants does not result in any decrease in performance.
 
 **Authors**:
 - [Diego Mesquita](https://twitter.com/wkly_infrmtive) (diego.mesquita@aalto.fi) --- corresponding author.
